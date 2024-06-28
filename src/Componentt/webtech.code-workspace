@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../webtech"
+		},
+		{
+			"path": "../../../../reactjss"
+		},
+		{
+			"path": "../../../../demo"
+		},
+		{
+			"path": "../../../../Signup"
+		},
+		{
+			"path": "../../../../practicecrud"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webtech"
+	}
+}

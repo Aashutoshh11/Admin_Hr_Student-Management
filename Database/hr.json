@@ -1,0 +1,39 @@
+{
+  "hr": [
+    {
+      "id": "1",
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "phone": "7487679098",
+      "password": "anil123"
+    },
+    {
+      "id": "2",
+      "name": "soma",
+      "email": "soma@gmail.com",
+      "phone": "9878987876",
+      "password": "soma123"
+    },
+    {
+      "name": "chandrika",
+      "email": "chandrika@gmail.com",
+      "phone": "8789876765",
+      "password": "chandrika123",
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "name": "jonty",
+      "email": "jonty@gmail.com",
+      "phone": "9898767654",
+      "password": "qwe123"
+    },
+    {
+      "id": "6",
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "phone": "9898776546",
+      "password": "asd12"
+    }
+  ]
+}

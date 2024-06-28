@@ -1,0 +1,56 @@
+.add-students-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-students-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.add-students-form input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.add-students-form button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-students-form button:hover {
+    background-color: #45a049;
+}
+
+.dc {
+    background-color: #333;
+    text-align: center;
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.dc a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.dc a:hover {
+    background-color: #555;
+}

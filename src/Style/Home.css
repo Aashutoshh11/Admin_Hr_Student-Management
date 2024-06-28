@@ -1,0 +1,82 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  
+  .heading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #c4c56ca1;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 50px;
+   
+  }
+  
+  .section {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 30px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease-in-out;
+    box-shadow: 10px 15px 10px rgba(58, 54, 54, 0.616);
+  }
+  
+  .section:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .admin,
+  .hr,
+  .student {
+    height: 50px;
+   
+  }
+  
+  .admin {
+    background-color: #ffcccb;
+    box-shadow: 10px 15px 10px rgba(58, 54, 54, 0.616);
+  }
+  
+  .hr {
+    background-color: #aee8e8;
+    box-shadow: 10px 15px 10px rgba(58, 54, 54, 0.616);
+  }
+  
+  .student {
+    background-color: #cfe8cf;
+    box-shadow: 10px 15px 10px rgba(118, 23, 207, 0.301);
+  }
+  
+  h2 {
+    margin: 0;
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #3498db;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #2c3e50;
+  }
+  

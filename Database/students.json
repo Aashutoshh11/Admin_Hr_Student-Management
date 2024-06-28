@@ -1,0 +1,62 @@
+{
+  "students": [
+    {
+      "serialNo": 2,
+      "id": "S001",
+      "password":"qw12",
+      "name": "ravii",
+      "email": "ravii@gmail.com",
+      "phoneNo": "8067766789",
+      "10th": "High School XYZ",
+      "12th": "Intermediate School ABC",
+      "10thperc": "70%",
+      "12thperc": "65%",
+      "degree": "University of ABC",
+      "degreeCGPA": 7.8,
+      "yop": 2022,
+      "skills": [
+        "Programming,",
+        "javascript,",
+        "html"
+      ],
+      "stream": "Computer Science"
+    },
+    {
+      "serialNo": 3,
+      "id": "S002",
+      "name": "sidharth",
+      "email": "sidharth@gmail.com",
+      "phoneNo": "8978978798",
+      "10th": "High School PQR",
+      "12th": "Intermediate School LMN",
+      "10thperc": "60%",
+      "12thperc": "65%",
+      "degree": "University of LMN",
+      "degreeCGPA": 9.8,
+      "yop": 2023,
+      "skills": [
+        "python,",
+        "c,",
+        "reactjs"
+      ],
+      "stream": "IT"
+    },
+    {
+      "id": "S003",
+      "name": "Rishi",
+      "email": "rishi@gmail.com",
+      "phoneNo": "8787878785",
+      "10th": "DAV Hehal Ranchi",
+      "12th": "DAV kapil Dev",
+      "10thperc": "70%",
+      "12thperc": "67%",
+      "degree": "University of Delhi",
+      "degreeCGPA": 7.8,
+      "yearOfPassing": 2023,
+      "skills": [
+        "java"
+      ],
+      "stream": "IT"
+    }
+  ]
+}

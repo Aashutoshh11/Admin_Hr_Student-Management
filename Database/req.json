@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "companyName": "salesforce",
+      "skillsRequired": "Java J2EE Springboot",
+      "bond": "3 Years",
+      "salary": "4LPA",
+      "id": "2",
+      "noOfPositions": 10
+    },
+    {
+      "companyName": "bufferzero",
+      "skillsRequired": "Java sql",
+      "bond": "3 Years",
+      "salary": "4LPA",
+      "id": "3",
+      "noOfPositions": 8
+    },
+    {
+      "companyName": "avalii",
+      "skillsRequired": "Java Springboot",
+      "bond": "3 Years",
+      "salary": "4LPA",
+      "id": "4",
+      "noOfPositions": 6
+    }
+  ]
+}
